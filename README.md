@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anupamctg
+- 👋 Hi, I’m Anupam
 - 👀 I’m an enthusiast in AI and Machine Learning
 - 🌱 Currently learning Deep Learning with TensorFlow
 - 💞️ Looking to collaborate on AI and Machine Learning community
